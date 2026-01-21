@@ -1,8 +1,6 @@
 # Atmospheric and Climate Data Retrieval, Processing, Analysis, and Visualization
 
-## Scope and Intent
-
-Software for automated meteorological and observational data retrieval, processing, and evaluation. The code is intended for scientific, engineering, and operational analytics use.
+Software for automated meteorological and observational data retrieval, processing, analysis, and visualization.
 
 ## Projects
 
