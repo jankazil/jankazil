@@ -9,6 +9,7 @@ The following projects were **designed, written, and tested entirely by a human 
 - **Arotake**  
   Provides a command-line tool and an application programming interface (API) that automate evaluating
   - NOAA High-Resolution Rapid Refresh (HRRR) surface forecasts
+  
   against observational time series derived from
   - Local Climatological Data version 2 (LCD v2)
   - Integrated Surface Database Lite (ISD-Lite).
