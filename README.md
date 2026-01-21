@@ -2,7 +2,7 @@
 
 ## Scope and Intent
 
-The projects in this GitHub repository support workflows for meteorological and observational data retrieval, processing, and evaluation. The code is intended for scientific, engineering, and operational analytics use.
+Software for automated meteorological and observational data retrieval, processing, and evaluation. The code is intended for scientific, engineering, and operational analytics use.
 
 ## Projects
 
