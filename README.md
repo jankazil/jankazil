@@ -13,10 +13,17 @@ The following projects were **designed, written, and tested entirely by a human 
   Provides a command-line tool and an API that automate accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public AWS S3 bucket.
 
 - **lcd-v2-data**  
-  Provides a command-line tool and an API that automate downloading NOAA Local Climatological Data version 2 (LCD v2) observations for a selected U.S. states and territories, and Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions, and converts them to full-hourly UTC time series.
+  Provides a command-line tool and an API that automate downloading NOAA Local Climatological Data version 2 (LCD v2) observations for
+  - selected U.S. states and territories
+  - Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions
+  and converts them to full-hourly UTC time series.
 
 - **isd-lite-data**  
-  Provides a command-line tool and an application programming interface (API) that automate downloading, filtering, and processing NOAA Integrated Surface Database Lite (ISD-Lite) observations for selected countries, U.S. states and territories, and Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions, producing full-hourly Coordinated Universal Time (UTC) time series.
+  Provides a command-line tool and an application programming interface (API) that automate downloading, filtering, and processing NOAA Integrated Surface Database Lite (ISD-Lite) observations for
+  - selected countries,
+  - U.S. states and territories,
+  - Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions,
+  producing full-hourly Coordinated Universal Time (UTC) time series.
   
 
 
