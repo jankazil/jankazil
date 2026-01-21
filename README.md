@@ -10,7 +10,7 @@ The following projects were **designed, written, and tested entirely by a human 
   Provides a command-line tool and an API that automate evaluating NOAA High-Resolution Rapid Refresh (HRRR) forecasts against Local Climatological Data version 2 (LCD v2) observations.
   
 - **hrrr-data**  
-  Provides a command-line tool and an API that automate accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public S3 bucket.
+  Provides a command-line tool and an API that automate accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public AWS S3 bucket.
 
 - **lcd-v2-data**  
   Provides a command-line tool and an API that automate downloading NOAA Local Climatological Data version 2 (LCD v2) observations for a selected US state/territory/RTO-ISO region and converts them to full-hourly UTC time series.
