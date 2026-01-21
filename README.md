@@ -25,7 +25,7 @@ Software for automated data retrieval, processing, analysis, and visualization.
   The original time series are converted from their irregularly spaced, local time to full-hour UTC time.
 
 - **[isd-lite-data](https://github.com/jankazil/isd-lite-data)**  
-  Provides a command-line tool and an API that automate downloading, filtering, and processing NOAA Integrated Surface Database Lite ([ISD-Lite]((https://www.ncei.noaa.gov/access/search/data-search/global-hourly))) observations for
+  Provides a command-line tool and an API that automate downloading, filtering, and processing NOAA Integrated Surface Database Lite ([ISD-Lite](https://www.ncei.noaa.gov/access/search/data-search/global-hourly)) observations for
   
   - selected countries,
   - U.S. states and territories,
