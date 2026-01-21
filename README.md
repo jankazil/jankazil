@@ -20,7 +20,7 @@ Software for automated data retrieval, processing, analysis, and visualization.
   Provides a command-line tool and an API that automate downloading, filtering, and processing NOAA Local Climatological Data version 2 ([LCD v2](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data-v2)) observations for
   
   - selected U.S. states and territories,
-  - Regional Transmission Organization (RTO) and Independent System Operator (ISO) [regions](https://www.ferc.gov/power-sales-and-markets/rtos-and-isos).
+  - [Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions](https://www.ferc.gov/power-sales-and-markets/rtos-and-isos).
   
   The original time series are converted from their irregularly spaced, local time to full-hour UTC time.
 
@@ -29,7 +29,7 @@ Software for automated data retrieval, processing, analysis, and visualization.
   
   - selected countries,
   - U.S. states and territories,
-  - Regional Transmission Organization (RTO) and Independent System Operator (ISO) [regions](https://www.ferc.gov/power-sales-and-markets/rtos-and-isos).
+  - [Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions](https://www.ferc.gov/power-sales-and-markets/rtos-and-isos).
   
 
 
