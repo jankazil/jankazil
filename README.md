@@ -6,12 +6,12 @@ Software for automated data retrieval, processing, analysis, and visualization.
 
 - **[Arotake](https://github.com/jankazil/Arotake)**  
   Provides a command-line tool and an application programming interface (API) that automate evaluating
-  - NOAA High-Resolution Rapid Refresh (HRRR) surface forecasts
+  - [NOAA High-Resolution Rapid Refresh (HRRR)](https://rapidrefresh.noaa.gov/hrrr/) surface forecasts
   
   against observational time series:
   
-  - Local Climatological Data version 2 (LCD v2)
-  - Integrated Surface Database Lite (ISD-Lite)
+  - [Local Climatological Data version 2 (LCD v2)](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data-v2)
+  - [Integrated Surface Database Lite (ISD-Lite)](https://www.ncei.noaa.gov/access/search/data-search/global-hourly)
   
 - **[hrrr-data](https://github.com/jankazil/hrrr-data)**  
   Provides a command-line tool and an API that automate accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public AWS S3 bucket.
