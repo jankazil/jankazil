@@ -7,7 +7,11 @@ Software for automated data retrieval, processing, analysis, and visualization.
 The following projects were **designed, written, and tested entirely by a human author, without the use of AI coding agents or automated code-generation systems**:
 
 - **Arotake**  
-  Provides a command-line tool and an application programming interface (API) that automate evaluating NOAA High-Resolution Rapid Refresh (HRRR) surface forecasts against observational time series derived from Local Climatological Data version 2 (LCD v2) and Integrated Surface Database Lite (ISD-Lite).
+  Provides a command-line tool and an application programming interface (API) that automate evaluating
+  - NOAA High-Resolution Rapid Refresh (HRRR) surface forecasts
+  against observational time series derived from
+  - Local Climatological Data version 2 (LCD v2)
+  - Integrated Surface Database Lite (ISD-Lite).
   
 - **hrrr-data**  
   Provides a command-line tool and an API that automate accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public AWS S3 bucket.
