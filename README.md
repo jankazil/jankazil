@@ -13,15 +13,15 @@ The following projects were **designed, written, and tested entirely by a human 
   against observational time series:
   
   - Local Climatological Data version 2 (LCD v2)
-  - Integrated Surface Database Lite (ISD-Lite).
+  - Integrated Surface Database Lite (ISD-Lite)
   
 - **hrrr-data**  
   Provides a command-line tool and an API that automate accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public AWS S3 bucket.
 
 - **lcd-v2-data**  
   Provides a command-line tool and an API that automate downloading NOAA Local Climatological Data version 2 (LCD v2) observations for
-  - selected U.S. states and territories
-  - Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions
+  - selected U.S. states and territories,
+  - Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions,
   and converts them to full-hourly UTC time series.
 
 - **isd-lite-data**  
