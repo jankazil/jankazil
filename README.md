@@ -1,6 +1,6 @@
-# Atmospheric and Climate Data Retrieval, Processing, Analysis, and Visualization
+# Atmospheric, Climate, and Weather Tools
 
-Software for automated meteorological and observational data retrieval, processing, analysis, and visualization.
+Software for automated data retrieval, processing, analysis, and visualization.
 
 ## Projects
 
