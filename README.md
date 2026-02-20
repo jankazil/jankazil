@@ -2,7 +2,7 @@
 
 Software for automated data retrieval, processing, analysis, and visualization.
 
-## Productivity Software
+## Weather and Climate Data Toolkits & APIs
 
 - **[Arotake](https://github.com/jankazil/Arotake)**  
   Command-line tool and application programming interface (API) that automates evaluating:
