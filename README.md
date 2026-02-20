@@ -1,7 +1,8 @@
 # Weather and Climate Data Analysis
 
-## Toolkits & APIs
-Software for automated data retrieval, processing, analysis, and visualization.
+## Toolkits & APIs  
+Software that automates data retrieval, processing, analysis, and visualization. 
+
 - **[Arotake](https://github.com/jankazil/Arotake)**  
   Command-line tool and application programming interface (API) that automates evaluating:
   - [NOAA High-Resolution Rapid Refresh (HRRR)](https://rapidrefresh.noaa.gov/hrrr/) surface forecasts
