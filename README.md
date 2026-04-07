@@ -1,12 +1,11 @@
 # Machine Learning
-## Toolkits & APIs
+## Toolkits
 - **[torch-tk](https://github.com/jankazil/torch-tk)**  
   Torch toolkit that automates training, checkpoint management, and diagnostics of PyTorch models.
 
 # Weather and Climate Data Analysis
 
-## Toolkits & APIs  
-Software that automates data retrieval, processing, analysis, and visualization. 
+## Software that automates data retrieval, processing, analysis, and visualization. 
 
 - **[Arotake](https://github.com/jankazil/Arotake)**  
   Command-line tool and application programming interface (API) that automates evaluating:
