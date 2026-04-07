@@ -1,7 +1,7 @@
 # Machine Learning
 ## Toolkits & APIs
 - **[torch-tk](https://github.com/jankazil/torch-tk)**  
-  Toolkit that automates training, checkpoint management, and diagnostics of PyTorch models.
+  Torch toolkit that automates training, checkpoint management, and diagnostics of PyTorch models.
 
 # Weather and Climate Data Analysis
 
