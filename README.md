@@ -1,7 +1,7 @@
 # Machine Learning
 
 - **[torch-tk](https://github.com/jankazil/torch-tk)**  
-  torch-tk streamlines training, checkpoint management, and diagnostics of PyTorch models.
+  Streamlines training, checkpoint management, and diagnostics of PyTorch models.
 
 # Weather and Climate Data Analysis
 
