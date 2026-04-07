@@ -5,7 +5,7 @@
 
 # Weather and Climate Data Analysis
 
-## Software for automated retrieval, processing, analysis, and visualization of weather and climate data.
+## Software for automated retrieval, processing, analysis, and visualization
 
 - **[Arotake](https://github.com/jankazil/Arotake)**  
   Command-line tool and application programming interface (API) that automates evaluating:
