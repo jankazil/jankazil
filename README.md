@@ -7,7 +7,7 @@
 
 ## Automated retrieval, processing, analysis, and visualization
 
-- **[Arotake](https://github.com/jankazil/Arotake)**  
+### **[Arotake](https://github.com/jankazil/Arotake)**  
   Command-line tool and application programming interface (API) that automates evaluating:
   - [NOAA High-Resolution Rapid Refresh (HRRR)](https://rapidrefresh.noaa.gov/hrrr/) surface forecasts
   
