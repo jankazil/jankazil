@@ -18,22 +18,10 @@
   Command-line tool and API that automates accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public AWS S3 bucket.
 
 ###  **[madis-data](https://github.com/jankazil/madis-data)**  
-  Command-line tool and API to automatically create analysis-ready full-hour MADIS Mesonet observation datasets for arbitrary date ranges and operationally meaningful U.S. regions or individual stations as netCDF files.
+  Command-line tool and API to automatically create analysis-ready UTC full-hour [MADIS Mesonet](https://madis.ncep.noaa.gov/madis_mesonet.shtml) observation datasets for arbitrary date ranges, for arbitrary date ranges, for U.S. states and RTO/ISO regions, as netCDF files.
   
 ###  **[lcd-v2-data](https://github.com/jankazil/lcd-v2-data)**  
-  Command-line tool and API that automates downloading, filtering, and processing NOAA Local Climatological Data version 2 ([LCD v2](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data-v2)) observations for
-  
-  - U.S. states and territories,
-  - [Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions](https://www.ferc.gov/power-sales-and-markets/rtos-and-isos).
-  
-  The original time series are converted from their irregularly spaced, local time to full-hour UTC time.
+  Command-line tool and API to automatically create analysis-ready UTC full-hour Local Climatological Data version 2 ([LCD v2](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data-v2)) observation datasets for arbitrary date ranges, for U.S. states and RTO/ISO regions, as netCDF files.
 
 ###  **[isd-lite-data](https://github.com/jankazil/isd-lite-data)**  
-  Command-line tool and API that automates downloading, filtering, and processing NOAA Integrated Surface Database Lite ([ISD-Lite](https://www.ncei.noaa.gov/access/search/data-search/global-hourly)) observations for
-  
-  - Individual countries,
-  - U.S. states and territories,
-  - [Regional Transmission Organization (RTO) and Independent System Operator (ISO) regions](https://www.ferc.gov/power-sales-and-markets/rtos-and-isos).
-  
-
-
+  Command-line tool and API to automatically create analysis-ready UTC full-hour NOAA Integrated Surface Database Lite ([ISD-Lite](https://www.ncei.noaa.gov/access/search/data-search/global-hourly)) observation datasets for arbitrary date ranges, for individual countries, U.S. states and RTO/ISO regions, and individual stations, as netCDF files.
