@@ -24,4 +24,4 @@
   Command-line tool and API to automatically create analysis-ready UTC full-hour Local Climatological Data version 2 ([LCD v2](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data-v2)) observation datasets for arbitrary date ranges, for U.S. states and RTO/ISO regions, as netCDF files.
 
 ###  **[isd-lite-data](https://github.com/jankazil/isd-lite-data)**  
-  Command-line tool and API to automatically create analysis-ready UTC full-hour NOAA Integrated Surface Database Lite ([ISD-Lite](https://www.ncei.noaa.gov/access/search/data-search/global-hourly)) observation datasets for arbitrary date ranges, for individual countries, U.S. states and RTO/ISO regions, and individual stations, as netCDF files.
+  Command-line tool and API to automatically create analysis-ready UTC full-hour Integrated Surface Database Lite ([ISD-Lite](https://www.ncei.noaa.gov/access/search/data-search/global-hourly)) observation datasets for arbitrary date ranges, for individual countries, U.S. states and RTO/ISO regions, and individual stations, as netCDF files.
