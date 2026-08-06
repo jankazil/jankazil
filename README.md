@@ -18,7 +18,7 @@
   Command-line tool and API that automates accessing, downloading, and processing NOAA High-Resolution Rapid Refresh (HRRR) forecast data from NOAA’s public AWS S3 bucket.
 
 ###  **[madis-data](https://github.com/jankazil/madis-data)**  
-  Toolkit produces analysis-ready full-hour MADIS Mesonet datasets for arbitrary date ranges and operationally meaningful U.S. regions or individual stations as netCDF files.
+  Command-line tool and API to automatically produce analysis-ready full-hour MADIS Mesonet datasets for arbitrary date ranges and operationally meaningful U.S. regions or individual stations as netCDF files.
   
 ###  **[lcd-v2-data](https://github.com/jankazil/lcd-v2-data)**  
   Command-line tool and API that automates downloading, filtering, and processing NOAA Local Climatological Data version 2 ([LCD v2](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data-v2)) observations for
